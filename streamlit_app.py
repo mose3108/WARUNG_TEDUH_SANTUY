@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.title("WARUNG TEDUH SANTUY:READ[WTS] :SIMELE:")
+st.title("WTS :read[warung teguh santuy] :rice:")
