@@ -2,9 +2,7 @@ import streamlit as st
 
 st.title("WTS :blue[WARUNG TEDUH SANTUI] :rice:")
 
-enable = st.checkbox("Enable camera")
-picture = st.camera_input("Take a picture", disabled=not enable)
-
-if picture:
-    st.image(picture)
-
+st.logo(
+    LOGO_URL_LARGE,
+    link="https://streamlit.io/gallery",
+    icon_image=LOGO_URL_SMALL,
