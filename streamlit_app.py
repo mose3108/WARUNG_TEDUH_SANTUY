@@ -2,7 +2,6 @@ import streamlit as st
 
 st.title("WTS :blue[WARUNG TEDUH SANTUI] :rice:")
 
-import streamlit as st
 
 HORIZONTAL_RED = "images/horizontal_red.png"
 ICON_RED = "images/icon_red.png"
